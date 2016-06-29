@@ -4,7 +4,7 @@ Author: Manu Madhavan
 Email: mmnamboodiry@gmail.com
 
 Disclaimer
-Program use python 2.7
+This Program use python 2.7
 This program does not consider stemming, and punctuation removal.
 TF is normalized by the count of highest freqent term in the document
 idf is caluclated as log(N/(1+n)) where N is the total no of docs and n is the number of docs in which term appears.
